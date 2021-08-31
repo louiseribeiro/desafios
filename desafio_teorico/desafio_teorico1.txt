@@ -1,0 +1,12 @@
+Respostas das questões de 01 a 05
+
+01) Teoricamente, pode-se dizer que o termo Big Data se refere a um grande volume de dados. Mas, para além disso,
+há outras características que o definem, como varidade (tipo de estrutura, sequência, tamanho e tipo de dados);  velocidade com que os dados são coletados,
+analisados e utilizados; veracidade (afinal, é necessário garantir a qualidade dos dados) e como dito inicialmente, volume.
+
+
+02)Uma das diferenças entre Spark e Hadoop é a velocidade. Spark otimiza os processos que executam diversas vezes sobre o mesmo conjunto de dados. Além disso, não é possível utilizar 
+o Hadoop em uma aplicação que realize o processamento em tempo real, já que ele foi projetado para processamento em lotes, ao contrário do Spark.
+
+
+05)Identificação das questões a serem respondidas com os dados; captura e armazenamento destes; processamento, análise e visualização de dados.
