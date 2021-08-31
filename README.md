@@ -1,5 +1,5 @@
 <h3>Desafio teórico</h3>
-<p align="justify">Desafio composto de 4 questões</p>
+<p align="justify">Desafio composto de 5 questões</p>
 
 
 <h3>Desafio de codificação pt.1</h3>
